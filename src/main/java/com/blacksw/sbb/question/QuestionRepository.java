@@ -1,4 +1,4 @@
-package com.blacksw.sbb;
+package com.blacksw.sbb.question;
 
 import java.util.List;
 
